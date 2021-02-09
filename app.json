@@ -4,9 +4,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/MaxxRider/Max-Torrent-Leech-V2",
-  "success_url": "https://t.me/MaxxLeechPro",
-  "website": "https://github.com/MaxxRider/Max-Torrent-Leech-V2",
+  "repository": "https://github.com/demon9882/Max-Torrent-Leech-V2",
+  "success_url": "https://t.me/death898",
+  "website": "https://github.com/demon9882/Max-Torrent-Leech-V2",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -97,10 +97,6 @@
     },
     "GET_SIZE_G": {
       "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is /getsize.",
-      "required": false
-    },
-    "RCLONE_CONFIG": {
-      "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
       "required": false
     },
     "DESTINATION_FOLDER": {
